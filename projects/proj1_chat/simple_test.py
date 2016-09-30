@@ -5,7 +5,7 @@ import sys
 import time
 from subprocess import Popen, PIPE
 
-SLEEP_SECONDS = 0.1 
+SLEEP_SECONDS = 0.1
 
 class SimpleTest():
     def run(self, port):
